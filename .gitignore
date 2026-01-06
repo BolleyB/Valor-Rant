@@ -13,6 +13,8 @@ __pycache__/
 
 # Environment variables
 .env
+backend/.env
+**/.env
 
 # Data files (raw CSV imports)
 data/*.csv
