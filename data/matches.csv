@@ -1,0 +1,6 @@
+match_id,date,team_name,opponent,map,result,rounds_for,rounds_against
+1,2025-01-01,Cloud9 VAL Academy (Mock),Sentinels (Mock),Ascent,Loss,10,13
+2,2025-01-05,Cloud9 VAL Academy (Mock),NRG (Mock),Ascent,Win,13,9
+3,2025-01-10,Cloud9 VAL Academy (Mock),100T (Mock),Haven,Loss,8,13
+4,2025-01-15,Cloud9 VAL Academy (Mock),LOUD (Mock),Haven,Loss,11,13
+5,2025-01-20,Cloud9 VAL Academy (Mock),FNATIC (Mock),Ascent,Win,13,7
